@@ -1,0 +1,317 @@
+[
+  {
+    "id": "exemplo-homebrew-a",
+    "name": "Exemplo Homebrew A",
+    "description": "Este é um registro fictício criado exclusivamente para validar a exibição da grade, busca instantânea e funcionamento da ficha de detalhes. Nenhum jogo real ou arquivo executável está associado a esta entrada.",
+    "platform": "Homebrew",
+    "genre": "Plataforma",
+    "year": null,
+    "developer": null,
+    "coverImageUrl": null,
+    "icon": "🕹️",
+    "detail": "Registro fictício para testar a busca.",
+    "status": "demo",
+    "origin": "MockDemo",
+    "compatibility": "Untested",
+    "license": "FictitiousDemo",
+    "licenseDetails": null,
+    "licenseDescription": "Não aplicável a registros demonstrativos. Não há licença de software vinculada.",
+    "availability": "DemonstrationOnly",
+    "packageMetadata": null,
+    "officialSources": [
+      {
+        "title": "Nenhuma fonte externa vinculada",
+        "url": null,
+        "description": "Registro puramente simulado para homologação do protótipo no Windows.",
+        "isVerified": false
+      }
+    ]
+  },
+  {
+    "id": "exemplo-homebrew-b",
+    "name": "Exemplo Homebrew B",
+    "description": "Segundo registro simulado, utilizado para certificar a filtragem por gênero e plataforma no catálogo. Não representa uma produção existente e não possui arquivos para download.",
+    "platform": "Homebrew",
+    "genre": "Aventura",
+    "year": null,
+    "developer": null,
+    "coverImageUrl": null,
+    "icon": "👾",
+    "detail": "Registro fictício para testar filtros.",
+    "status": "demo",
+    "origin": "MockDemo",
+    "compatibility": "Untested",
+    "license": "FictitiousDemo",
+    "licenseDetails": null,
+    "licenseDescription": "Não aplicável a registros demonstrativos.",
+    "availability": "DemonstrationOnly",
+    "packageMetadata": null,
+    "officialSources": [
+      {
+        "title": "Nenhuma fonte externa vinculada",
+        "url": null,
+        "description": "Registro de demonstração sem repositório ou página de distribuição.",
+        "isVerified": false
+      }
+    ]
+  },
+  {
+    "id": "registro-teste-ps1",
+    "name": "Registro de teste PS1",
+    "description": "Item fictício inserido para testar o filtro de plataforma 'PlayStation' e o estado 'Não testado'. Não indica que o console R36XX ou dArkOSRE seja capaz de executar jogos desta categoria.",
+    "platform": "PlayStation",
+    "genre": "Ação",
+    "year": null,
+    "developer": null,
+    "coverImageUrl": null,
+    "icon": "💿",
+    "detail": "Compatibilidade ainda não verificada.",
+    "status": "unknown",
+    "origin": "MockDemo",
+    "compatibility": "Untested",
+    "license": "FictitiousDemo",
+    "licenseDetails": null,
+    "licenseDescription": "Não aplicável (simulação).",
+    "availability": "DemonstrationOnly",
+    "packageMetadata": null,
+    "officialSources": [
+      {
+        "title": "Sem fontes associadas",
+        "url": null,
+        "description": "Informação fictícia para testes de interface.",
+        "isVerified": false
+      }
+    ]
+  },
+  {
+    "id": "registro-teste-gba",
+    "name": "Registro de teste GBA",
+    "description": "Item de teste para avaliar o layout de cards com títulos e plataformas de comprimentos variados. A execução em emuladores GBA no dArkOSRE ainda carece de validação técnica.",
+    "platform": "Game Boy Advance",
+    "genre": "RPG",
+    "year": null,
+    "developer": null,
+    "coverImageUrl": null,
+    "icon": "🎒",
+    "detail": "Compatibilidade ainda não verificada.",
+    "status": "unknown",
+    "origin": "MockDemo",
+    "compatibility": "Untested",
+    "license": "FictitiousDemo",
+    "licenseDetails": null,
+    "licenseDescription": "Não aplicável (simulação).",
+    "availability": "DemonstrationOnly",
+    "packageMetadata": null,
+    "officialSources": [
+      {
+        "title": "Sem fontes associadas",
+        "url": null,
+        "description": "Informação fictícia para testes de interface.",
+        "isVerified": false
+      }
+    ]
+  },
+  {
+    "id": "registro-teste-arcade",
+    "name": "Registro de teste Arcade",
+    "description": "Registro de teste para plataforma Arcade. Mantido para validar filtros de gênero de luta e compatibilidade não verificada.",
+    "platform": "Arcade",
+    "genre": "Luta",
+    "year": null,
+    "developer": null,
+    "coverImageUrl": null,
+    "icon": "🥊",
+    "detail": "Compatibilidade ainda não verificada.",
+    "status": "unknown",
+    "origin": "MockDemo",
+    "compatibility": "Untested",
+    "license": "FictitiousDemo",
+    "licenseDetails": null,
+    "licenseDescription": "Não aplicável (simulação).",
+    "availability": "DemonstrationOnly",
+    "packageMetadata": null,
+    "officialSources": [
+      {
+        "title": "Sem fontes associadas",
+        "url": null,
+        "description": "Informação fictícia para testes de interface.",
+        "isVerified": false
+      }
+    ]
+  },
+  {
+    "id": "gb-tobutobugirl-dx",
+    "name": "Tobu Tobu Girl Deluxe",
+    "description": "Tobu Tobu Girl Deluxe é um aclamado jogo homebrew de plataforma arcade desenvolvido nativamente para Game Boy e Game Boy Color. O jogador controla uma garota que deve pular sobre inimigos com manobras acrobáticas e impulso para resgatar seu pato de estimação antes que o cronômetro expire. Possui trilha sonora chiptune refinada, gráficos coloridos em pixel art e código-fonte 100% público.",
+    "platform": "Game Boy",
+    "genre": "Plataforma",
+    "year": 2019,
+    "developer": "Tangram Games",
+    "coverImageUrl": null,
+    "icon": "👧",
+    "detail": "Jogo homebrew de plataforma arcade e precisão para Game Boy.",
+    "status": "demo",
+    "origin": "VerifiedReal",
+    "compatibility": "Untested",
+    "license": "VerifiedOpen",
+    "licenseDetails": "MIT (Código-fonte) + Creative Commons CC BY 4.0 (Assets e Áudio)",
+    "licenseDescription": "Código aberto sob licença MIT; trilha e gráficos sob licença Creative Commons de atribuição.",
+    "availability": "CatalogOnly",
+    "packageMetadata": {
+      "fileName": "tobutobugirl-dx.gb",
+      "allowedExtensions": [".gb", ".gbc"],
+      "expectedSizeBytes": 1048576,
+      "expectedSha256": "89df83ee6ef4b0359e0ad4af11c71faf1eea61c689902490b5efaa3d14a41900",
+      "downloadUrl": "https://github.com/SimonLarsen/tobutobugirl-dx/releases",
+      "hasPackage": true
+    },
+    "officialSources": [
+      {
+        "title": "Repositório Oficial no GitHub (Tangram Games)",
+        "url": "https://github.com/SimonLarsen/tobutobugirl-dx",
+        "description": "Repositório com código-fonte em C/Assembly, instruções de compilação, assets e arquivos de licença MIT e CC-BY.",
+        "isVerified": true
+      }
+    ]
+  },
+  {
+    "id": "nes-super-tilt-bro",
+    "name": "Super Tilt Bro.",
+    "description": "Super Tilt Bro. é um inovador jogo de luta em plataformas de código aberto desenvolvido para o hardware do Nintendo Entertainment System (NES). Projetado em Assembly 6502 e C por Sylvain Gadrat, destaca-se pela física acrobática fluida inspirada em jogos competitivos contemporâneos e suporte avançado de cartucho.",
+    "platform": "NES",
+    "genre": "Luta",
+    "year": 2021,
+    "developer": "Sylvain Gadrat (RogerBidon)",
+    "coverImageUrl": null,
+    "icon": "⚔️",
+    "detail": "Jogo de luta em plataformas de código aberto para NES.",
+    "status": "demo",
+    "origin": "VerifiedReal",
+    "compatibility": "Untested",
+    "license": "VerifiedOpen",
+    "licenseDetails": "WTFPL (Do What The Fuck You Want To Public License) / Permissiva",
+    "licenseDescription": "Código-fonte e ferramentas do projeto sob licença livre permissiva equivalente ao domínio público.",
+    "availability": "CatalogOnly",
+    "packageMetadata": {
+      "fileName": "super-tilt-bro.nes",
+      "allowedExtensions": [".nes"],
+      "expectedSizeBytes": 524288,
+      "expectedSha256": "2bc8ec208a649b9c121fd71760c0fe8b8035198e39b342ae07cb9c1339caf6fb",
+      "downloadUrl": "https://github.com/sgadrat/super-tilt-bro/releases",
+      "hasPackage": true
+    },
+    "officialSources": [
+      {
+        "title": "Repositório Oficial no GitHub (sgadrat)",
+        "url": "https://github.com/sgadrat/super-tilt-bro",
+        "description": "Repositório com o código completo do jogo, engine de física e documentação técnica.",
+        "isVerified": true
+      }
+    ]
+  },
+  {
+    "id": "gb-2048",
+    "name": "2048-gb",
+    "description": "Adaptação homebrew do célebre quebra-cabeça 2048 criada especialmente para Game Boy original (DMG) e Game Boy Color. Desenvolvida em C utilizando o Game Boy Development Kit (GBDK), apresenta jogabilidade suave, salvamento de pontuação recorde e código-fonte auditável.",
+    "platform": "Game Boy",
+    "genre": "Puzzle",
+    "year": 2014,
+    "developer": "bbbbbr",
+    "coverImageUrl": null,
+    "icon": "🔢",
+    "detail": "Implementação open source do quebra-cabeça 2048 para Game Boy.",
+    "status": "demo",
+    "origin": "VerifiedReal",
+    "compatibility": "Untested",
+    "license": "VerifiedOpen",
+    "licenseDetails": "Licença MIT",
+    "licenseDescription": "Software livre de código aberto sob os termos da licença permissiva MIT.",
+    "availability": "CatalogOnly",
+    "packageMetadata": {
+      "fileName": "2048.gb",
+      "allowedExtensions": [".gb", ".gbc"],
+      "expectedSizeBytes": 65536,
+      "expectedSha256": "f25e3525fcb5c3c2abf4ab91c68ff9f9868c09e9ec09221b8506b044f710b44f",
+      "downloadUrl": "https://github.com/bbbbbr/2048-gb/releases",
+      "hasPackage": true
+    },
+    "officialSources": [
+      {
+        "title": "Repositório Oficial no GitHub (bbbbbr)",
+        "url": "https://github.com/bbbbbr/2048-gb",
+        "description": "Repositório open source com código em C, arquivos de projeto e documentação sob licença MIT.",
+        "isVerified": true
+      }
+    ]
+  },
+  {
+    "id": "gba-240p-test-suite",
+    "name": "240p Test Suite",
+    "description": "O 240p Test Suite é uma ferramenta homebrew de calibração indispensável criada por Artemio Urbina. Desenvolvida para avaliar e calibrar monitores, telas de consoles portáteis e núcleos de emulação, oferecendo padrões de teste para resolução, proporção de aspecto (aspect ratio), delay de áudio/vídeo e sombras.",
+    "platform": "Game Boy Advance",
+    "genre": "Utilitário",
+    "year": 2014,
+    "developer": "Artemio Urbina",
+    "coverImageUrl": null,
+    "icon": "📐",
+    "detail": "Suíte homebrew de calibração e diagnóstico de vídeo e áudio.",
+    "status": "demo",
+    "origin": "VerifiedReal",
+    "compatibility": "Untested",
+    "license": "VerifiedOpen",
+    "licenseDetails": "GNU General Public License v2.0 (GPLv2)",
+    "licenseDescription": "Software livre distribuído sob os termos da licença GNU GPLv2.",
+    "availability": "CatalogOnly",
+    "packageMetadata": {
+      "fileName": "240pSuite.gba",
+      "allowedExtensions": [".gba"],
+      "expectedSizeBytes": 4194304,
+      "expectedSha256": "3a6ef104e4e6ed3c10c6770061ab3b0604c55b3e7971e55a961bd90e9efe2a47",
+      "downloadUrl": "https://github.com/ArtemioUrbina/240pTestSuite/releases",
+      "hasPackage": true
+    },
+    "officialSources": [
+      {
+        "title": "Repositório Oficial no GitHub (ArtemioUrbina)",
+        "url": "https://github.com/ArtemioUrbina/240pTestSuite",
+        "description": "Código-fonte e histórico de desenvolvimento da ferramenta de calibração sob licença GPLv2.",
+        "isVerified": true
+      }
+    ]
+  },
+  {
+    "id": "snes-classic-kong",
+    "name": "Classic Kong Complete",
+    "description": "Classic Kong Complete é uma recriação homebrew fiel do célebre jogo de arcade desenvolvida nativamente para Super Nintendo (SNES). Projetado do zero com gráficos e som autênticos de 16-bits, representa um exemplo excelente de engenharia homebrew para SNES.",
+    "platform": "SNES",
+    "genre": "Plataforma",
+    "year": 2012,
+    "developer": "Bubble Zap Games",
+    "coverImageUrl": null,
+    "icon": "🦍",
+    "detail": "Recriação homebrew clássica para Super Nintendo.",
+    "status": "demo",
+    "origin": "VerifiedReal",
+    "compatibility": "Untested",
+    "license": "VerifiedOpen",
+    "licenseDetails": "Homebrew Gratuito / Freeware de Distribuição Comunitária",
+    "licenseDescription": "Jogo homebrew gratuito de distribuição aberta para consoles retrô.",
+    "availability": "CatalogOnly",
+    "packageMetadata": {
+      "fileName": "ClassicKong.sfc",
+      "allowedExtensions": [".sfc", ".smc"],
+      "expectedSizeBytes": 0,
+      "expectedSha256": "",
+      "downloadUrl": "https://bubblezapgames.com/releases/ClassicKong.zip",
+      "hasPackage": true
+    },
+    "officialSources": [
+      {
+        "title": "Página Comunitária Bubble Zap Games",
+        "url": "https://bubblezapgames.com",
+        "description": "Projeto homebrew gratuito desenvolvido para o hardware SNES.",
+        "isVerified": true
+      }
+    ]
+  }
+]
